@@ -1,7 +1,7 @@
 # Qt-Arduino RGB LED Control
 
-#Control of a RGB LED using an Arduino in serial Communicaton with Qt Creator.
-#// The GUI allows for users to gain control of the RGB LED.
+Control of a RGB LED using an Arduino in serial Communicaton with Qt Creator.
+The GUI allows for users to gain control of the RGB LED.
 
 # Repository Includes: 
 Arduino LED Code
