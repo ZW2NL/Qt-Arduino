@@ -4,5 +4,5 @@
 #The GUI allows for users to gain control of the RGB LED.
 
 # Repository Includes: 
-#Arduino LED Code
-#Qt GUI code(incl header, ui, etc...)
+Arduino LED Code
+Qt GUI code(incl header, ui, etc...)
